@@ -4,5 +4,5 @@ https://doi.org/10.48550/arXiv.2509.11338
 
 Tested on Lorenz chaotic attractor.
 Two type of maps:
-* $X_{n+1} = W_{out} * P(X_n,X_{n-1},...)$ in file Lorenz_ODE.m
-* $X_{n+1} = X_{n} + W_{out} * P(X_n,X_{n-1},...)$ in file Lorenz_ODE_dX.m
+* $X_{n+1} = W_{out}  P(X_n,X_{n-1},...)$ in file Lorenz_ODE.m
+* $X_{n+1} = X_{n} + W_{out}  P(X_n,X_{n-1},...)$ in file Lorenz_ODE_dX.m
